@@ -1,0 +1,12 @@
+{
+	"uuid": "UUID_HERE",
+	"config_hash": "CONFIG_HASH_HERE",
+	"trigger_domain": "TRIGGER_DOMAIN_HERE",
+	"facebook_appid": "",
+	"modules": [
+		"internal",
+		"launchimage",
+		"logging",
+		"event"
+	]
+}

@@ -1,0 +1,16 @@
+{
+    "android": {
+        "profiles": {
+            "DEFAULT": {
+                "keystore": "C:\\Documents and Settings\\Stewart\\.ssh\\android.keystore", 
+                "keypass": "stewartc", 
+                "keyalias": "android", 
+                "storepass": "stewartc"
+            }
+        }, 
+        "sdk": "C:\\development\\android-sdk\\"
+    }, 
+    "ios": {
+        "device": "simulator"
+    }
+}

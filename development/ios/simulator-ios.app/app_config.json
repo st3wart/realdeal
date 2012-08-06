@@ -1,0 +1,12 @@
+{
+	"uuid": "d23d37fedf9211e1a71612313d1adcbe",
+	"config_hash": "48ffadf868af71eb688f3a832fed1b4d53a30f64",
+	"trigger_domain": "https://trigger.io",
+	"facebook_appid": "",
+	"modules": [
+		"internal",
+		"launchimage",
+		"logging",
+		"event"
+	]
+}

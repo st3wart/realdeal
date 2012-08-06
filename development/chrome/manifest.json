@@ -1,0 +1,8 @@
+{
+	"name": "realdeal",
+	"version": "0.1",
+	"description": "An empty app created by default",
+	"permissions": [],
+	"background": {"page": "forge.html"},
+	"manifest_version": 2
+}
