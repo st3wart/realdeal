@@ -2,7 +2,7 @@
 	"name": "forge-web",
 	"version": "0.0.1",
 	"dependencies": {
-		"express": "2.5"
+		"express": "4.17"
 	},
 	"scripts": {
 		"start": "node ./web.js"
